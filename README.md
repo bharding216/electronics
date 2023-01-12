@@ -1,5 +1,7 @@
 # Forecasting Demand for an Electronics Distributor
 
+## Project Description
+
 ## Features
 - Forecast customer demand based on historical data
 - Recommend inventory levels to business manager
