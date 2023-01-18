@@ -3,8 +3,7 @@
 ## Project Description
 
 ## Features
-- Forecast customer demand based on historical data
-- Recommend inventory levels to business manager
+- Forecast monthly sales based on historical data
 - Use ML techniques to make product recommendations to past customers
 
 Data Source:<br>
